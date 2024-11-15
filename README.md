@@ -11,7 +11,7 @@
 - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?logo=springboot&logoColor=white)  
 
 ## 🌟 Current Projects  
-- **JBank** ![JB](https://img.shields.io/badge/-JB-%231e90ff): A Java-based banking system with login, registration, transfers, and investment features.  
+- **JBank** (https://img.shields.io/badge/-JB-%231e90ff): A Java-based banking system with login, registration, transfers, and investment features.  
 
 ## 🤝 Let’s Connect  
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoamorimdev/)  
