@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gustavo Henrique  
 
 🎓 **Computer Science Student** at [IFSP - Federal Institute of São Paulo](https://www.ifsp.edu.br/)  
-💡 I’m passionate about **learning, creating**, and **solving problems with technology**.  
+💡 I enjoy learning, creating, and **solving problems using technology**.  
 🌱 Focused on **innovation**, **sustainability**, and continuous growth.  
 
 ## 🔧 Skills  
@@ -18,4 +18,4 @@
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoamorimdev/)  
 
 ---
-*"Technology is about ideas. Let's build something great together!"*  
+*""I carry within me all the dreams in the world.""*  
