@@ -5,17 +5,16 @@
 🌱 Focused on **innovation**, **sustainability**, and continuous growth.  
 
 ## 🔧 Skills  
-- **Languages:** Java, C, HTML, CSS, JavaScript  
-- **Tools:** Maven, JavaFX, GameMaker Studio 2, Libresprite, Inkscape  
-- **Database:** MySQL, PostgreSQL  
+- ![C](https://img.shields.io/badge/-C-%2300599C?logo=c&logoColor=white)  
+- ![Java](https://img.shields.io/badge/-Java-%23ED8B00?logo=java&logoColor=white)  
+- ![MySQL](https://img.shields.io/badge/-MySQL-%2300f?logo=mysql&logoColor=white)  
+- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?logo=springboot&logoColor=white)  
 
 ## 🌟 Current Projects  
-- **JBank:** A Java-based banking system with login, registration, transfers, and investment features.  
-- **Green Rush:** A game promoting sustainability, available [here](https://mega777.itch.io/greenrush).  
+- **JBank** ![JB](https://img.shields.io/badge/-JB-%231e90ff): A Java-based banking system with login, registration, transfers, and investment features.  
 
 ## 🤝 Let’s Connect  
-- [LinkedIn](https://www.linkedin.com)  
-- [Portfolio](https://github.com/gustavohenrique)  
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoamorimdev/)  
 
 ---
 *"Technology is about ideas. Let's build something great together!"*  
