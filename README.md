@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Gustavo Henrique  
 
-<!--
-**guwinralos/guwinralos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student** at [IFSP - Federal Institute of São Paulo](https://www.ifsp.edu.br/)  
+💡 I’m passionate about **learning, creating**, and **solving problems with technology**.  
+🌱 Focused on **innovation**, **sustainability**, and continuous growth.  
 
-Here are some ideas to get you started:
+## 🔧 Skills  
+- **Languages:** Java, C, HTML, CSS, JavaScript  
+- **Tools:** Maven, JavaFX, GameMaker Studio 2, Libresprite, Inkscape  
+- **Database:** MySQL, PostgreSQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Current Projects  
+- **JBank:** A Java-based banking system with login, registration, transfers, and investment features.  
+- **Green Rush:** A game promoting sustainability, available [here](https://mega777.itch.io/greenrush).  
+
+## 🤝 Let’s Connect  
+- [LinkedIn](https://www.linkedin.com)  
+- [Portfolio](https://github.com/gustavohenrique)  
+
+---
+*"Technology is about ideas. Let's build something great together!"*  
