@@ -5,9 +5,10 @@
 🌱 Focused on **innovation**, and continuous growth.  
 
 ## 🔧 Skills  
-- ![C](https://img.shields.io/badge/-C-%2300599C?logo=c&logoColor=white)  
-- ![Java](https://img.shields.io/badge/-Java-%23ED8B00?logo=java&logoColor=white)  
-- ![MySQL](https://img.shields.io/badge/-MySQL-%2300f?logo=mysql&logoColor=white)
+- ![C](https://img.shields.io/badge/-C-%2300599C?style=for-the-badge&logo=c&logoColor=white)  
+- ![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+- ![MySQL](https://img.shields.io/badge/-MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)  
+- ![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 
 ## 🤝 Let’s Connect  
