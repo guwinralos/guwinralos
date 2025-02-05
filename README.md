@@ -8,8 +8,6 @@
 - ![C](https://img.shields.io/badge/-C-%2300599C?logo=c&logoColor=white)  
 - ![Java](https://img.shields.io/badge/-Java-%23ED8B00?logo=java&logoColor=white)  
 - ![MySQL](https://img.shields.io/badge/-MySQL-%2300f?logo=mysql&logoColor=white)
-- ![NoSQL](https://img.shields.io/badge/-NoSQL-%23CB3431?logo=mongodb&logoColor=white)
-- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?logo=springboot&logoColor=white)  
 
 
 ## 🤝 Let’s Connect  
