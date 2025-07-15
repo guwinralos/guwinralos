@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Gustavo Henrique  
 
 🎓 **Computer Science Student** at [IFSP - Federal Institute of São Paulo](https://www.ifsp.edu.br/)  
-💡 I enjoy learning, creating, and **solving problems using technology**.  
-🌱 Focused on **innovation**, and continuous growth.  
+💡 I enjoy **solving problems using technology**.  
+🌱 Focused on **innovation**, and continuous growth. 
 
 ## 🔧 Skills  
 - ![C](https://img.shields.io/badge/-C-%2300599C?style=for-the-badge&logo=c&logoColor=white)  
