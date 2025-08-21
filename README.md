@@ -19,12 +19,12 @@
 ## 📊 GitHub Statistics  
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoamorimdev&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoamorimdev&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guwinralos&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guwinralos&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gustavoamorimdev&theme=radical&hide_border=true" height="180em" />
+  <img src="https://streak-stats.demolab.com/?user=guwinralos&theme=radical&hide_border=true" height="180em" />
 </p>
 
 ---
