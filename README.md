@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Student** at [IFSP - Federal Institute of São Paulo](https://www.ifsp.edu.br/)  
 💡 I enjoy **solving problems using technology**  
-🌱 Focused on **innovation**, and continuous growth
+🌱 Focused on **innovation** and continuous growth
 
 ---
 
@@ -15,20 +15,18 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 About me
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=guwinralos&show_icons=true&theme=radical&count_private=true&hide_border=true)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guwinralos&layout=compact&langs_count=8&theme=radical&hide_border=true)  
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=guwinralos&theme=radical&hide_border=true)
+Sou estudante de Ciência da Computação no IFSP. Gosto de utilizar tecnologia para resolver problemas reais e estou sempre buscando aprender coisas novas, especialmente nas áreas de dados e machine learning.
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoamorimdev/)
 
 ---
 
-*"I carry within me all the dreams in the world."*
+> *"I carry within me all the dreams in the world."*
+
+---
